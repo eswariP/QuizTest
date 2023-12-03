@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizTest</string>
+    <string name="correct_Answer">Correct Answer</string>
+    <string name="alert_Save">Save</string>
+    <string name="selectNoofQns">Select Number of questions</string>
+    <string name="Reset">Reset</string>
+    <string name="Average">calculate Average</string>
+    <string name="alert_Average">Average is</string>
+
+   <!-- <string name="question10">The break statement can also be used to jump out of a loop.</string>
+    <string name="question9">Arrays are used to store multiple values in a single variable</string>
+    <string name="question8">String variable contains a collection of characters surrounded\n    by double quotes:</string>
+    <string name="question7">Garbage Collection is manual process.</string>
+    <string name="question6">The \'switch\' selection structure must end with the default\n    case.</string>
+    <string name="question5">The modifiers public and static cannot written in either order\n    \'public static\' or \'static public\'\"</string>
+    <string name="question4">Interfaces can be instantiated.</string>
+    <string name="question3">\"In an instance method or a constructor, \'this\' is a reference\n    to the current object.\"</string>-->
+    <!--<string name="question2">Constructor overloading is not possible in Java</string>
+    <string name="question1">Variable name can begin with a letter, $, or _ </string> -->
+
+
+    <string name="question9">ఒకే వేరియబుల్‌లో బహుళ విలువలను నిల్వ చేయడానికి శ్రేణులు ఉపయోగించబడతాయి</string>
+    <string name="question10">బ్రేక్ స్టేట్‌మెంట్ లూప్ నుండి దూకడానికి కూడా ఉపయోగించవచ్చు..</string>
+    <string name="question3">ఒక ఉదాహరణ పద్ధతిలో లేదా కన్స్ట్రక్టర్‌లో, ఇది అనేది ప్రస్తుత వస్తువుకు సూచన\n.</string>
+    <string name="question2">జావాలో కన్స్ట్రక్టర్ ఓవర్‌లోడింగ్ సాధ్యం కాదు</string>
+    <string name="question1">వేరియబుల్ పేరు అక్షరం, $, లేదా _తో ప్రారంభం కావచ్చు</string>
+
+    <string name="TRUEVAl">నిజమే</string>
+    <string name="FALSEVAL">తప్పు</string>
+</resources>
